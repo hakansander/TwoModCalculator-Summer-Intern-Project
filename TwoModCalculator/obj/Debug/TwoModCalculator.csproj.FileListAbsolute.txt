@@ -1,0 +1,11 @@
+c:\users\hakan\documents\visual studio 2017\Projects\TwoModCalculator\TwoModCalculator\obj\Debug\TwoModCalculator.csprojResolveAssemblyReference.cache
+c:\users\hakan\documents\visual studio 2017\Projects\TwoModCalculator\TwoModCalculator\obj\Debug\TwoModCalculator.Form1.resources
+c:\users\hakan\documents\visual studio 2017\Projects\TwoModCalculator\TwoModCalculator\obj\Debug\TwoModCalculator.Properties.Resources.resources
+c:\users\hakan\documents\visual studio 2017\Projects\TwoModCalculator\TwoModCalculator\obj\Debug\TwoModCalculator.UC1_simple.resources
+c:\users\hakan\documents\visual studio 2017\Projects\TwoModCalculator\TwoModCalculator\obj\Debug\TwoModCalculator.csproj.GenerateResource.Cache
+c:\users\hakan\documents\visual studio 2017\Projects\TwoModCalculator\TwoModCalculator\bin\Debug\TwoModCalculator.exe.config
+c:\users\hakan\documents\visual studio 2017\Projects\TwoModCalculator\TwoModCalculator\bin\Debug\TwoModCalculator.exe
+c:\users\hakan\documents\visual studio 2017\Projects\TwoModCalculator\TwoModCalculator\bin\Debug\TwoModCalculator.pdb
+c:\users\hakan\documents\visual studio 2017\Projects\TwoModCalculator\TwoModCalculator\obj\Debug\TwoModCalculator.exe
+c:\users\hakan\documents\visual studio 2017\Projects\TwoModCalculator\TwoModCalculator\obj\Debug\TwoModCalculator.pdb
+C:\Users\Hakan\Documents\Visual Studio 2017\Projects\TwoModCalculator\TwoModCalculator\obj\Debug\TwoModCalculator.UC2_scientific.resources
